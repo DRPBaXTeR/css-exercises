@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd {
+    background-color: #f564cc;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#blueElement {
+    color: blue;
+    font-size: 36px;
+}
+
+.bigElement {
+    font-size: 24px;
+}
+
+#greenElement {
+    background-color: #26bd53;
+    font-size: 24px;
+    font-weight: 700;
+}
