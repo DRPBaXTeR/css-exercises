@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.blackBTN {
+    background-color: black;
+    color: white;
+}
+
+.yellowBTN {
+    background-color: yellow;
+}
+
+.blackBTN,
+.yellowBTN {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
